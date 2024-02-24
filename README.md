@@ -1,2 +1,3 @@
 # cs3354_dummy
-Dummy Repo
+
+Dummy Repo to learn git
