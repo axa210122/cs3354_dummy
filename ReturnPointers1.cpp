@@ -6,7 +6,7 @@ int main()
 {
     string  *address = nullptr;
     address = getAddress();
-    cout << "\nThe address is: " << endl;
+    cout << "\nAddress is: " << endl;
     for ( int i =0; i < 2; i++)
     {
         cout << address[i] << endl;
